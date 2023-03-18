@@ -1,0 +1,9 @@
+django
+pytz
+python-dotenv
+dj-database-url
+psycopg2-binary
+gunicorn
+gevent
+django-bootstrap5
+waitress
